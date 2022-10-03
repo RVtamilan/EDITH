@@ -1,4 +1,4 @@
- from statistics import median
+from statistics import median
 rv = []
 
 for i in range(7):
